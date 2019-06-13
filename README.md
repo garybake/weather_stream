@@ -11,3 +11,6 @@ The feeder feeds data from a file to a socket (mimicking a simple queue). (Also 
 The pred_stream takes batches off the feed and enriches it with a prediction.
 
 Requires sklearn and pyspark
+
+TODO:
+Add in the model building jupyter notebooks
